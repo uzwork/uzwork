@@ -1,4 +1,4 @@
-[![MasterHead](https://yandex.uz/images/search?from=tabbar&text=frontend%20developer%20png%20gif&p=3&pos=151&rpt=simage&img_url=http%3A%2F%2Fi.gifer.com%2Forigin%2F22%2F22657b8a577f858827c5d46dac32cf53.gif&lr=196769)](https://rishavchanda.io)
+<img align="right" alt="Coding" width="800" src="https://yandex.uz/images/search?text=frontend%20developer%20gif&from=tabbar&p=5&pos=238&rpt=simage&img_url=http%3A%2F%2Fi.gifer.com%2FS7Sc.gif&lr=196769">
 <h1 align="center">Hi 👋, I'm UzWork</h1>
 <h3 align="center">A passionate frontend developer from UZB</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
